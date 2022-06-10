@@ -1,0 +1,9 @@
+<div>
+    <p>
+        Hello, <span>world</span>!
+    </p>
+    <div>
+        This is being rendered from HTX!
+        <img src="https://picsum.photos/300/300" />
+    </div>
+</div>
